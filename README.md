@@ -80,4 +80,4 @@ In the `word-mastermind` directory, install the dependencies using `yarn install
 
 Run the server: `yarn start`.
 
-Go to http://localhost:3333.
+Go to http://localhost:3333..
